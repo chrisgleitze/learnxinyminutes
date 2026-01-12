@@ -1,0 +1,15 @@
+{
+  "name": "lxiym",
+  "version": "1.0.0",
+  "description": "Whirlwind tours of (several, hopefully many someday) popular and ought-to-be-more-popular programming languages, presented as valid, commented code and explained as they go.",
+  "main": "javascript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.7.4"
+  }
+}
